@@ -2,14 +2,17 @@ package dowhile42;
 //14. Count the number of digits in a number
 public class QB14 {
 public static void main(String[] args) {
-	int a = 123;
-	int b = 0;
+	
+int n = 10023;
+	
+	int count = 0;
 	
 	do {
-		a = a/10;
-		System.out.println(b);
-		b++;	
+		n = n/10;
 		
-	}while(a>0);
+		count++;
+		
+	}while(n!=0);
+	System.out.println(count);
 }
 }

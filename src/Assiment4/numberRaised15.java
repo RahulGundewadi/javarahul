@@ -3,8 +3,8 @@ package Assiment4;
 public class numberRaised15 {
 public static void main(String[] args) {
 	 int no = 1;
-	int num = 3;
-	int raised = 3;
+	int num = 5;
+	int raised = 5;
 	for(int a=1;a<=raised;a++) {
 		
 		no = no*num;

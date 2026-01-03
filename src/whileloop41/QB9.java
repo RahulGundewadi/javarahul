@@ -11,7 +11,7 @@ public class QB9 {
 		int n = sc.nextInt();
 		int a = 1;
 		
-		while(a==n) {
+		while(a<=n) {
 			System.out.println(a);
 			a++;
 		}

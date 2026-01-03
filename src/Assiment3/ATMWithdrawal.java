@@ -16,7 +16,7 @@ public class ATMWithdrawal {
       System.out.println("Enter the withdrawal amount");
     a = sc.nextLong();*/
         	int b = 300;
-        	int a = 220;
+        	int a = 250;
         	
     
     if( b>a&&a%100==0 ) {

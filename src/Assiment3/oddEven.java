@@ -19,7 +19,7 @@ public class oddEven {
 		 int a = sc.nextInt();
 			int b = sc.nextInt();	*/
 			int a = 6;
-			int b = 2;
+			int b = 4;
 			
 		 if(a%2==0 && b%2==0) {
 			 if(a>b) {

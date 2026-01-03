@@ -4,7 +4,7 @@ If age ≥18 and citizen (Y/y), print "Eligible to vote".*/
 public class SimpleVotingSystem {
 		public static void main(String[] args) {
 			
-			int age = 14;
+			int age = 19;
 			String citizenship = "India";
 			
 			if(age>=18 && citizenship == "India" ) {

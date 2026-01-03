@@ -5,7 +5,7 @@ package Assiment2;
 public class q8 {
 
 public String getNumber(String number) {
-	String Number = "2  :"+number;
+	String Number = "2 "+number;
 	return Number;
 	
 	
